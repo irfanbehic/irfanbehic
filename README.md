@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @irfanbehic
-- 👀 I’m interested in data science and artificial intelligence
+- 👀 I’m interested in IOS Development and Data Science
 - 🌱 I’m currently working in a engineering company as a Data Analyst
 
 <!---
